@@ -35,6 +35,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  video_player: ^2.9.1
+
+  package_info_plus: ^8.0.0
+  wakelock_plus: ^1.2.5
+  volume_controller: ^2.0.8
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
